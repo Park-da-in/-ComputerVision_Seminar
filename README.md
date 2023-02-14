@@ -1,1 +1,1 @@
-# -ComputerVision_Seminar
+# ComputerVision_Seminar
