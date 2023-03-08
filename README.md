@@ -3,3 +3,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Computer_Vision&fontSize=90" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-da-in&langs_count=8)](https://github.com/Park-da-in/github-readme-stats)
+<a href="[url](https://020604di.tistory.com/)" > <h3>:muscle: Problem Solving </h3> </a>
