@@ -20,7 +20,7 @@ Week1) Neural Network
 - Convolutional filter, Padding, MaxPooling, 
 
 
-## [week2)Transfer Learning] (https://github.com/Park-da-in/ComputerVision_Seminar/blob/3d7298760ed161657ad020b25c2dcbb1f41f8bad/%EA%B3%BC%EC%A0%9C/computer_vision_2%EC%A3%BC%EC%B0%A8.ipynb)
+week2) Transfer Learning
 --------------------------
 #### 1. Transfer Learning
 - Imagenet Challenge, Finetuning, Feature Extraction, Transfer Learning
