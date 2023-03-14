@@ -52,7 +52,6 @@ Week6) Data Modeling
 Week7) Semantic Segmentation
 ---------------------------
 #### 1. Semantic Segmentation
+- upsampling 2D(이미지 보간법), Transposed Conv 2D
 #### 2. FCN(Fully Convolution Network)
-- upsampling 2D, Transposed Conv 2D
 #### 3. U-Net
-- 이미지 보간법
