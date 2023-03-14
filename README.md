@@ -11,13 +11,13 @@
 [:star:tistory_blog:star:](https://020604di.tistory.com/)
 
 Week1) Neural Network
--------------
-
+--------------------------
 #### 1. 머신러닝과 딥러닝
 #### -정형 데이터, 비정형 데이터
-
 #### 2. 인공신경망
 #### -가중치, 편향, Soft max, Cross entropy, Activation function, 기울기 소실, 가중치 초기화, Batch Normalization, 과적합
-
 #### 3. CNN (Convolutional Neural Network)
 #### -Convolutional filter, Padding, MaxPooling, 
+
+Week2) Transfer Learning
+--------------------------
