@@ -43,6 +43,9 @@ Week5) Pytorch, GoogleNet
 #### 2. ResNet(2015)
 - 역전파, 순전파
 
+Week6) Data Modeling
+---------------------------
+#### 1. code
 
 Week7) Semantic Segmentation
 ---------------------------
