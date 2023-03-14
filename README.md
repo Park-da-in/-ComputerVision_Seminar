@@ -19,5 +19,8 @@ Week1) Neural Network
 #### 3. CNN (Convolutional Neural Network)
 #### -Convolutional filter, Padding, MaxPooling, 
 
+
 Week2) Transfer Learning
 --------------------------
+#### 1. Transfer Learning
+- Imagenet Challenge, Finetuning, Feature Extraction, Transfer Learning
