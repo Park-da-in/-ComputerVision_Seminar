@@ -25,20 +25,24 @@ Week2) Transfer Learning
 #### 1. Transfer Learning
 - Imagenet Challenge, Finetuning, Feature Extraction, Transfer Learning
 
+
 Week3) ImageNet Challenge 2014
 --------------------------------
 #### 1. VGG Net, GoogleNet
 - CNN 주요 용어 정리: Convolution(합성곱), Channel(채널), Filter(필터), Strid(스트라이드), Feature Map(피처 맵), Activation Map(액티베이션 맵), Padding(패딩), Pooling(풀링) layer
 
+
 Week4) Pytorch, GoogleNet
 ---------------------------
 #### 1. GoogleNet(2014)
+
 
 Week5) Pytorch, GoogleNet
 ---------------------------
 #### 1. GoogleNet(2014)
 #### 2. ResNet(2015)
 - 역전파, 순전파
+
 
 Week7) Semantic Segmentation
 ---------------------------
