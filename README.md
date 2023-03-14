@@ -45,7 +45,7 @@ Week5) Pytorch, GoogleNet
 
 Week6) Data Modeling
 ---------------------------
-#### 1. code
+#### 1. code 실습
 
 Week7) Semantic Segmentation
 ---------------------------
